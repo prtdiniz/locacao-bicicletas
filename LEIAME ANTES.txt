@@ -1,32 +1,32 @@
 
 
-====>>>>>>>>>>>>>>>>> Projeto empréstimos de Bicicleta
-Paulo Ricardo Diniz
+# Projeto empréstimos de Bicicleta
+### Paulo Ricardo Diniz
 
-Arquivos de dados para testes. Os arquivos são lidos de acordo com a opção desejada.
-=== Arquivos de Dados
-clientes.txt
-lojas.txt
-empréstimos.txt
+## Arquivos de dados para testes. Os arquivos são lidos de acordo com a opção desejada.
+# Arquivos de Dados
+* clientes.txt
+* lojas.txt
+* empréstimos.txt
 
-=== Programa principal:
+## Programa principal:
 main
 
-=== Classes
+## Classes
 
-gerais - Sistema, ValorNaoEncontrado
+# gerais - Sistema, ValorNaoEncontrado
 — Classes Genéricas e métodos gerais, utilizados pelas outras classes.
 
-cliente
+# cliente
 - Classe de Cliente
 
-loja
+# loja
 - Classe de Loja
 
-empréstimos
+# empréstimos
 - Classe Geral de Empréstimos
 
-- Regras de Negócio que forma consideradas:
+## Regras de Negócio que forma consideradas:
 1) Cada Cliente somente pode ter um empréstimo ativo
 2) O estoque da Loja não pode ser negativo
 3) O Cliente pode fazer cadastro, caso não tenha código ainda, mas, depois de “logado” não pode cadastrar novo Cliente.
@@ -47,9 +47,9 @@ empréstimos
 Para fazer reaproveitamento, tentei deixar o programa com bastante diálogo.
 
 ============================================================
-Dados para instanciar:
+# Dados para instanciar:
 
-Clientes:
+### Clientes:
 
 Cod   Nome                 		CPF         
 ----------------------------------------------------------------------
@@ -68,7 +68,7 @@ Cod   Nome                 		CPF
  54 - Silvio Santos                     	65700212064          
 
 
-Lojas/Estoque:
+### Lojas/Estoque:
 1 - Londrina		56 Bicicletas 	4 Locadas
 2 - Rio de Janeiro	30 Bicicletas 	22 Locadass
 3 - Maringá		23 Bicicletas 	0 Locadas
@@ -76,7 +76,7 @@ Lojas/Estoque:
 5 - Piracicaba		63 Bicicletas 	0 Locadas
 
 
-Empréstimos Ativos
+### Empréstimos Ativos
 Cliente 3	Loja 1	Qtde 4
 Ciente 51	Loja 2	Qtde 1
 Cliente 15	Loja 2	Qtde 21
