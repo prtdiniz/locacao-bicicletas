@@ -1,0 +1,1 @@
+{1: {'loja': 'Londrina', 'estoque': 56}, 2: {'loja': 'Rio de Janeiro', 'estoque': 30}, 3: {'loja': 'Maringá', 'estoque': 23}, 4: {'loja': 'Santos', 'estoque': 5}, 5: {'loja': 'Piracicaba', 'estoque': 63}}

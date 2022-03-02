@@ -1,0 +1,1 @@
+{3: {'loja': 1, 'qtde': 4, 'ano': 2022, 'mes': 2, 'dia': 17, 'hora': 20, 'min': 15}, 51: {'loja': 2, 'qtde': 1, 'ano': 2022, 'mes': 2, 'dia': 19, 'hora': 10, 'min': 15}, 15: {'loja': 2, 'qtde': 21, 'ano': 2022, 'mes': 2, 'dia': 11, 'hora': 20, 'min': 18}}
